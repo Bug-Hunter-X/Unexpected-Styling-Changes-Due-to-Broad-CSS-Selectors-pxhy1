@@ -1,0 +1,1 @@
+Instead of using broad selectors, use more specific selectors to target only the intended elements.  For example, use more class names, IDs, or combine selectors to make the selectors more precise.  Consider using the `:is()` or `:where()` pseudo-class selectors for more sophisticated selection.  Also, use a CSS preprocessor that helps minimize the errors.
