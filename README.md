@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug caused by overly broad selectors. The `bug.css` file contains the problematic CSS, causing unintended styling on elements. The `bugSolution.css` file shows how to correct the issue by making selectors more specific.
